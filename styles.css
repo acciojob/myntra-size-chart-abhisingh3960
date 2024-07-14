@@ -3,9 +3,15 @@
 th,td{
 	/* border-collapse:collapse; */
 	border:1px solid black;
-	border-collapse: collapse;
+	/* border-collapse: collapse; */
 }
 th{
 	background-color:blueviolet
+}
+
+table{
+	border-collapse:collapse;
+	width:100%;
+	text-align:center;
 }
 
